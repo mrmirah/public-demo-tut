@@ -5,7 +5,7 @@
 ## Objectives required to be completed
 This tutorial is hopefully enough to get started with some basic understanding of Git/GitHub/intelliJ
 
-### Objective 1 - The Fork or The Template
+### Objective 1 - The Fork
 No doubt the page currently being viewed is not our own repo so we must begin by getting this into our own account.
 
 - Click on the `Fork` button at the top right of the screen
